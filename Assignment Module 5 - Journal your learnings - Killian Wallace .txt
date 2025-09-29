@@ -1,0 +1,15 @@
+Chapters that I remember vividly reading and using throughout the last
+two modules are chapter 7-12. Chapter 7 showed how to set up Git,
+and the basics needed if you were to set up a server. I am only ever so far
+at least, going to use Git in assosiation with Github. But we'll see where I stand
+on that in the future. Chapter 8 and 9 showed READMEs and basic project implementation, as said in the 
+previous journal. Chapter 10 introduced me to issues, which is 
+where were getting into the territory of Git that I haven't quite delved into yet.
+I find issues very interesting and useful though, and I'm exctied to see how
+they're used in a proffessional project enviorment. Chapter 11
+introduced me to branches, pull requests, and basic merging and file
+managing working in a team enviorment. It is nice to see all of these because
+I'm starting to be able to see myself in this kind of enviorment of merging branches and fixing
+merging conflicts often. Finally, Chapter 12 delved deeper into pull requests, and also
+showing me how code reviews are done! This is the first time
+I've ever done a successful code review in action, even if its only myself.
