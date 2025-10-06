@@ -1,0 +1,5 @@
+In chapter 13, it introduced me to basic conflict fixing and merging inside of Git and Github. Some certain aspects I will remember are in general things about commits but one thing
+I like was it telling me the colors of which is a remote and which is a local in the terminal. This chapter also certain just made me more comfortable with creatings new branches,
+working on them, merging them together with other branches as well as pulling them, and deleteing. Chapter 14 was about dealing with the aftermath of a merge with a conflict. It
+shows how to push that change and view the diff between branches. I usually use software like VSCODE, which already makes it easy to see changes, but its still nice to see it in
+the terminal.
