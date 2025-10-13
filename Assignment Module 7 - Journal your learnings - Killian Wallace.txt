@@ -1,0 +1,10 @@
+We went over chapters 15 and 16 in our textbook.
+Chapter 15 was all about the various tools you can use as a visualization for git.
+It started off with simply git gui, then gitk, and then showed VSCode, Github desktop, and other 
+various tools. Out of all of them, I'm going to take away most git gui, and gitk, because they are git features
+that are very useful and they are straight from the terminal, and easy to use. Everything else that was brought up
+I have already researched for my own purposes, or other assignemnts. Chapter 16 was about the more
+advanced commands of git, like reverting, stashing, and resetting. Out of all of these, reverting and resetting
+seemn both helpful, reset more because I've had to actually use that already when I've messed up a push or commit.
+Reverting seems situationally helpfuly, but stashing just seems like reverting, but you're throwing it somewhere it
+"might" get used later, it's like a garbage disposal for ideas. 
